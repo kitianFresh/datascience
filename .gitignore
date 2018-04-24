@@ -15,6 +15,7 @@ dist/
 downloads/
 eggs/
 .eggs/
+.env/
 lib/
 lib64/
 parts/
@@ -87,3 +88,9 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# data file
+.csv
+.tsv
+.dat
+.txt
